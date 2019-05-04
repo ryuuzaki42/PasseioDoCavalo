@@ -13,4 +13,7 @@
 
 * No arquivo “cavalo.txt” deve haver a sequência do percurso do cavalo, mostrando o tabuleiro em cada movimento. O valor -1 significa casa vazia e um inteiro natural representa o número da jogada.
     * No final deste arquivo, deve-se escrever se uma solução foi ou não encontrada.
- 
+
+Para compilar:
+
+`gcc cavaloSequencial.c -o cavaloSequencial.out`
